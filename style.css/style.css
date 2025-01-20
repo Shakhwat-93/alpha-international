@@ -43,9 +43,9 @@ a{
 }
 .hero{
     text-align: center;
-    color: white;
+    color: rgb(0, 0, 0);
     padding: 20px;
-    background-color: #102125;
+    background-color: #7f9fa7;
 }
 .sub-title{
     margin-top: 20px;
